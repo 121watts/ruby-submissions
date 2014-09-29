@@ -1,22 +1,19 @@
-### [Project Title] NEW IDEA
+### [Project Title]
 
-FOODER
+Dude Where's My Car
 
 #### Pitch
 
-like UBER but for food DONATIONS.  
+Stealing hilary's parking app idea
 
 #### Description
 
-up to 50% of the food in this country never gets eaten.  what if we created
-a sharing economy app that allowed me to give away
-food that I'm not going to eat.  Before going on a trip and rather than let my
-pantry spoil I could put my food up on FOODER and allow people who want my food
-come and get it.  
+app that reminds you about street sweeping/holiday parking times.  also, parses
+crime data to find out if you really want to park your car there.  
 
 #### Target Audience
 
-Everyone who eats.  
+Everyone who parks in a city
 
 #### Integrations
 
