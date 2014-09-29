@@ -1,3 +1,27 @@
+### [Project Title] NEW IDEA
+
+FOODER
+
+#### Pitch
+
+like UBER but for food DONATIONS.  
+
+#### Description
+
+up to 50% of the food in this country never gets eaten.  what if we created
+a sharing economy app that allowed me to give away
+food that I'm not going to eat.  Before going on a trip and rather than let my
+pantry spoil I could put my food up on FOODER and allow people who want my food
+come and get it.  
+
+#### Target Audience
+
+Everyone who eats.  
+
+#### Integrations
+
+Facebook
+
 ### [Project Title]
 
 Renewable Energy Usage
@@ -48,28 +72,3 @@ Pessimists who think that the world cant.
 
 Probably facebook or twitter.  
 I would use world bank data and API for global GDP and Poverty metrics
-
-### [Project Title]
-
-Walmart Spammer
-
-#### Pitch
-
-tracks poverty rates by city in correlation to when a WalMart was built in said
-city.  
-
-#### Description
-
-if a WalMart was built in a city and poverty rates increased for a 5+ year period,
-it will provide a simple button to click to email that local towns Chamber of Commerce,
-town council, mayor, etc.  AND send an email to WalMart PR informing them of this
-correlation.  
-
-#### Target Audience
-
-people who hate walmart
-
-#### Integrations
-
-Facebook?
-Small area poverty data from.
