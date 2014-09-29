@@ -1,5 +1,29 @@
 ### [Project Title]
 
+Renewable Energy Usage
+
+#### Pitch
+
+Tracks renewable energy usage by state.
+#### Description
+
+Has a visualization map that updates
+with little circles where renewable energy is being used, how much energy is producing,
+and what percentage that contributes to US consumption
+
+
+#### Target Audience
+
+People interested in where renewable energy is being used and how much.  
+
+#### Integrations
+
+Facebook?  
+OpenEI API
+* [Any other integrations?]
+
+### [Project Title]
+
 End of Poverty?
 
 #### Pitch
@@ -24,31 +48,6 @@ Pessimists who think that the world cant.
 
 Probably facebook or twitter.  
 I would use world bank data and API for global GDP and Poverty metrics
-
-
-### [Project Title]
-
-Renewable Energy Usage
-
-#### Pitch
-
-Tracks renewable energy usage by state.
-#### Description
-
-Has a visualization map that updates
-with little circles where renewable energy is being used, how much energy is producing,
-and what percentage that contributes to US consumption
-
-
-#### Target Audience
-
-People interested in where renewable energy is being used and how much.  
-
-#### Integrations
-
-Facebook?  
-OpenEI API
-* [Any other integrations?]
 
 ### [Project Title]
 
